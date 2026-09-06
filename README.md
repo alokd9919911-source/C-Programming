@@ -1,2 +1,2 @@
-# C---Programming
-C - Programming Practice &amp; Projects
+# C-Programming
+C-Programming Practice &amp; Projects
